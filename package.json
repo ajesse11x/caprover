@@ -40,7 +40,7 @@
     "debug": "~4.1.1",
     "dockerode": "^2.5.8",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.20.0",
     "fs-extra": "^7.0.1",
     "http-proxy": "^1.17.0",
     "is-valid-path": "^0.1.1",
