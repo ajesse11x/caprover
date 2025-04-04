@@ -38,7 +38,7 @@
     "configstore": "^4.0.0",
     "cookie-parser": "~1.4.3",
     "debug": "~4.1.1",
-    "dockerode": "^2.5.8",
+    "dockerode": "^4.0.5",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "fs-extra": "^7.0.1",
